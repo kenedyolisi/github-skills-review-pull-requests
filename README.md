@@ -18,6 +18,8 @@
 
 [![Step 5, Apply changes](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/5-apply-changes.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/5-apply-changes.yml)
 
+[![Step 6, Merge your pull request](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/6-merge-your-pull-request.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/6-merge-your-pull-request.yml)
+
 # Review pull requests
 
 _Collaborate and work together on GitHub._
