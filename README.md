@@ -8,6 +8,8 @@
 -->
 [![Step 0, Welcome](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/0-welcome.yml)
 
+[![Step 1, Open a pull request](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/1-open-a-pull-request.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/1-open-a-pull-request.yml)
+
 # Review pull requests
 
 _Collaborate and work together on GitHub._
