@@ -10,6 +10,8 @@
 
 [![Step 1, Open a pull request](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/1-open-a-pull-request.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/1-open-a-pull-request.yml)
 
+[![Step 2, Assign yourself](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/2-assign-yourself.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/2-assign-yourself.yml)
+
 # Review pull requests
 
 _Collaborate and work together on GitHub._
