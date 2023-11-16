@@ -14,6 +14,8 @@
 
 [![Step 3, Leave a review](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/3-leave-a-review.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/3-leave-a-review.yml)
 
+[![Step 4, Suggest changes](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/4-suggest-changes.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/4-suggest-changes.yml)
+
 # Review pull requests
 
 _Collaborate and work together on GitHub._
