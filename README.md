@@ -12,6 +12,8 @@
 
 [![Step 2, Assign yourself](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/2-assign-yourself.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/2-assign-yourself.yml)
 
+[![Step 3, Leave a review](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/3-leave-a-review.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-review-pull-requests/actions/workflows/3-leave-a-review.yml)
+
 # Review pull requests
 
 _Collaborate and work together on GitHub._
